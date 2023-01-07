@@ -1,7 +1,7 @@
 # Shell_C-Cpp
 Shell script to compile C/C++ files | Linux | bash
 
-You are testing codes and programming using 'simple' text editors like: vim, nano, vscode, sublime etc. Come with me!
+You are testing codes and programming using text editors like: vim, nano, vscode, sublime etc. Come with me!
 
 Tired of using IDE's that are heavy, slow or that keep generating unnecessary files in your projects?
 
