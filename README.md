@@ -4,11 +4,14 @@ Shell script to compile C/C++ files | Linux | bash
 You are testing codes and programming using text editors like: vim, nano, vscode, sublime etc. Come with me!
 
 Tired of using IDE's that are heavy, slow or that keep generating unnecessary files in your projects?
+ 
+Want to test your algorithms in a cleaner and simpler way?
 
 Using these text editors, I was running two commands in the terminal, for each code modification.
 This is work, and during development you waste time writing boydplat code.
 With that I developed a shellScript that runs these two commands automatically and also some extra commands like: clear the terminal and skip the line...
 
+#
 
 1°) Install GCC on the machine:
 ~~~
