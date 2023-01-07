@@ -32,5 +32,5 @@ chmod +x arquivo.sh
 ./arquivo.sh
 ~~~
 ### Vídeo: Compilando o Código
-[![Vídeo: Compilando o Código](https://external-preview.redd.it/pSIj4KFcab2tbrNbQ8fINGmQXlcm1YamYNV5ZHCwAWE.png?auto=webp&s=3922dd967aa72269d86a391681f0b7e4ab2c96b9)](https://drive.google.com/file/d/1qKd8QgVk-4kmWPz5X06pRlRXnfY6emjv/view?usp=sharing "Compiilando o Código...")
+[![Vídeo: Compilando o Código](https://upload.wikimedia.org/wikipedia/commons/7/7b/AtariBASIC.png)](https://drive.google.com/file/d/1qKd8QgVk-4kmWPz5X06pRlRXnfY6emjv/view?usp=sharing "Compiilando o Código...")
 ### 
